@@ -1,0 +1,6 @@
+pandas
+streamlit
+langchain-community
+ollama
+google-maps-reviews-scraper
+openpyxl
